@@ -1,0 +1,15 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "scripts": {
+    "start": "tsc && node dist"
+  },
+  "author": "",
+  "license": "ISC"
+}
